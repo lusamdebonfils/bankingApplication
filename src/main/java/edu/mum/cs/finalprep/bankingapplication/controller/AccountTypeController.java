@@ -11,4 +11,6 @@ public class AccountTypeController {
         return "accountType/list";
     }
 
+
+
 }
